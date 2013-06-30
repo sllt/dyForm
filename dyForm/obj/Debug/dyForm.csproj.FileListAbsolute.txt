@@ -1,0 +1,7 @@
+E:\Code\C#\dyForm\dyForm\obj\Debug\dyForm.csprojResolveAssemblyReference.cache
+E:\Code\C#\dyForm\dyForm\obj\Debug\dyForm.Properties.Resources.resources
+E:\Code\C#\dyForm\dyForm\obj\Debug\dyForm.csproj.GenerateResource.Cache
+E:\Code\C#\dyForm\dyForm\bin\Debug\dyForm.dll
+E:\Code\C#\dyForm\dyForm\bin\Debug\dyForm.pdb
+E:\Code\C#\dyForm\dyForm\obj\Debug\dyForm.dll
+E:\Code\C#\dyForm\dyForm\obj\Debug\dyForm.pdb
